@@ -1,0 +1,27 @@
+spring:
+  application:
+    name: eureka-ha-server
+
+---
+spring:
+  profiles: peer1
+server:
+  port: 8761
+eureka:
+  instance:
+    hostname: peer1.zhangyu.ai
+  client:
+    service-url:
+      defaultZone: http://peer2.zhangyu.com:8762/eureka/
+
+---
+spring:
+  profiles: peer2
+server:
+  port: 8762
+eureka:
+  instance:
+    hostname: peer2.zhangyu.ai
+  client:
+    service-url:
+      defaultZone: http://peer1.zhangyu.com:8761/eureka/

@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="eureka-ha-consumer" />
         <module name="eureka-ha-provider" />
+        <module name="eureka-ha-server-jar" />
         <module name="eureka-ha-server1" />
         <module name="eureka-ha-server2" />
       </profile>
@@ -15,6 +16,7 @@
     <bytecodeTargetLevel>
       <module name="eureka-ha-consumer" target="1.8" />
       <module name="eureka-ha-provider" target="1.8" />
+      <module name="eureka-ha-server-jar" target="1.8" />
       <module name="eureka-ha-server1" target="1.8" />
       <module name="eureka-ha-server2" target="1.8" />
     </bytecodeTargetLevel>

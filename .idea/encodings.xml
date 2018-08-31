@@ -3,6 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/eureka-ha-consumer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eureka-ha-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-ha-server-jar" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eureka-ha-server1" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eureka-ha-server2" charset="UTF-8" />
   </component>
