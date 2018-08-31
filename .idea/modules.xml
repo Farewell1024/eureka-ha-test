@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka-ha-consumer/eureka-ha-consumer.iml" filepath="$PROJECT_DIR$/eureka-ha-consumer/eureka-ha-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-ha-provider/eureka-ha-provider.iml" filepath="$PROJECT_DIR$/eureka-ha-provider/eureka-ha-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-ha-server1/eureka-ha-server1.iml" filepath="$PROJECT_DIR$/eureka-ha-server1/eureka-ha-server1.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-ha-server2/eureka-ha-server2.iml" filepath="$PROJECT_DIR$/eureka-ha-server2/eureka-ha-server2.iml" />
     </modules>

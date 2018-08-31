@@ -5,6 +5,8 @@
       <list>
         <option value="$PROJECT_DIR$/eureka-ha-server1/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-ha-server2/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-ha-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-ha-consumer/pom.xml" />
       </list>
     </option>
   </component>
